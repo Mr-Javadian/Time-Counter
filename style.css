@@ -4,9 +4,8 @@
 }
 
 body {
-    background-color: black;
     width: 99%;
-    background-image: url('img/backgroundimg.jpg');
+    background-color: rgb(0, 0, 0);
     background-size: auto;
 }
 
@@ -26,8 +25,8 @@ body {
 .day {
     font-family: DigitalFont;
     width: 199px;
-    background-color: rgba(150, 146, 146, 0.212);
-    color: rgb(240, 248, 255);
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     height: 165px;
     font-size: 140px;
     text-align: center;
@@ -39,8 +38,8 @@ body {
 .hour {
     font-family: DigitalFont;
     width: 140px;
-    background-color: rgba(146, 138, 138, 0.212);
-    color: aliceblue;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     height: 165px;
     font-size: 140px;
     text-align: center;
@@ -53,8 +52,8 @@ body {
 .minute {
     font-family: DigitalFont;
     width: 140px;
-    background-color: rgba(165, 159, 159, 0.212);
-    color: aliceblue;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     height: 165px;
     font-size: 140px;
     text-align: center;
@@ -67,8 +66,8 @@ body {
 .second {
     font-family: DigitalFont;
     width: 140px;
-    background-color: rgba(173, 173, 173, 0.212);
-    color: aliceblue;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     height: 165px;
     font-size: 140px;
     text-align: center;
@@ -81,8 +80,8 @@ body {
 .msecond {
     font-family: DigitalFont;
     width: 220px;
-    background-color: rgba(165, 159, 159, 0.212);
-    color: aliceblue;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     height: 165px;
     font-size: 140px;
     text-align: center;
